@@ -1,0 +1,436 @@
+[
+ {
+  "text": "webster",
+  "global_weights": {
+   "S": 0.5,
+   "TW": 0,
+   "BZ": 0.5,
+   "TWb": 0.5,
+   "TWb2": 0,
+   "BZb": 0
+  },
+  "boltzmann_e_bounded": [
+   0.00013,
+   0.00118,
+   0.0041,
+   0.00959
+  ],
+  "alone_and_mixed": {
+   "S": {
+    "bits": 1.132,
+    "right": 76.07
+   },
+   "TW": {
+    "bits": 0.9112,
+    "right": 82.93
+   },
+   "BZ": {
+    "bits": 0.8603,
+    "right": 82.37
+   },
+   "TWb": {
+    "bits": 0.8293,
+    "right": 84.8
+   },
+   "BZb": {
+    "bits": 0.8073,
+    "right": 83.1
+   },
+   "TWb2": {
+    "bits": 0.9079,
+    "right": 83.15
+   },
+   "one mix for all": {
+    "bits": 0.6764,
+    "right": 87.49
+   },
+   "mix by what the reader sees": {
+    "bits": 0.6307,
+    "right": 87.35
+   }
+  },
+  "by place in word (right %)": {
+   "word start": {
+    "S": 74.5,
+    "TW": 75.0,
+    "BZ": 74.3,
+    "TWb": 79.0,
+    "BZb": 75.9,
+    "TWb2": 75.6,
+    "one mix for all": 82.5,
+    "mix by what the reader sees": 82.5
+   },
+   "word end": {
+    "S": 78.4,
+    "TW": 77.0,
+    "BZ": 76.5,
+    "TWb": 80.7,
+    "BZb": 78.0,
+    "TWb2": 77.4,
+    "one mix for all": 84.8,
+    "mix by what the reader sees": 84.6
+   },
+   "inside": {
+    "S": 76.3,
+    "TW": 88.3,
+    "BZ": 87.8,
+    "TWb": 90.1,
+    "BZb": 89.2,
+    "TWb2": 88.4,
+    "one mix for all": 90.8,
+    "mix by what the reader sees": 90.5
+   },
+   "one-letter word": {
+    "S": 63.1,
+    "TW": 74.3,
+    "BZ": 74.0,
+    "TWb": 43.3,
+    "BZb": 43.3,
+    "TWb2": 74.5,
+    "one mix for all": 76.1,
+    "mix by what the reader sees": 77.7
+   }
+  },
+  "any reading right": 92.75,
+  "gate": {
+   "6": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "10": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "12": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "13": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "14": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0.5,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "16": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "17": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0.5,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "18": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "20": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0.5,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "21": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0.5,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "22": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 1,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "24": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0.5,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "25": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0.5,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "26": {
+    "S": 0,
+    "TW": 0.5,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "27": {
+    "S": 0.5,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   }
+  },
+  "seconds": 189.2
+ },
+ {
+  "text": "scrambled",
+  "global_weights": {
+   "S": 0,
+   "TW": 0,
+   "BZ": 1,
+   "TWb": 0,
+   "TWb2": 0,
+   "BZb": 0
+  },
+  "boltzmann_e_bounded": [
+   0.09998,
+   0.33185,
+   0.1855,
+   0.2706
+  ],
+  "alone_and_mixed": {
+   "S": {
+    "bits": 4.4733,
+    "right": 8.65
+   },
+   "TW": {
+    "bits": 4.2266,
+    "right": 11.55
+   },
+   "BZ": {
+    "bits": 4.2041,
+    "right": 11.75
+   },
+   "TWb": {
+    "bits": 4.2422,
+    "right": 11.32
+   },
+   "BZb": {
+    "bits": 4.2041,
+    "right": 11.75
+   },
+   "TWb2": {
+    "bits": 4.2288,
+    "right": 11.5
+   },
+   "one mix for all": {
+    "bits": 4.2041,
+    "right": 11.75
+   },
+   "mix by what the reader sees": {
+    "bits": 4.2044,
+    "right": 11.75
+   }
+  },
+  "by place in word (right %)": {
+   "word start": {
+    "S": 8.7,
+    "TW": 11.4,
+    "BZ": 11.7,
+    "TWb": 11.0,
+    "BZb": 11.7,
+    "TWb2": 11.3,
+    "one mix for all": 11.7,
+    "mix by what the reader sees": 11.7
+   },
+   "word end": {
+    "S": 8.7,
+    "TW": 11.4,
+    "BZ": 11.6,
+    "TWb": 11.1,
+    "BZb": 11.6,
+    "TWb2": 11.3,
+    "one mix for all": 11.6,
+    "mix by what the reader sees": 11.6
+   },
+   "inside": {
+    "S": 8.6,
+    "TW": 11.6,
+    "BZ": 11.8,
+    "TWb": 11.4,
+    "BZb": 11.8,
+    "TWb2": 11.6,
+    "one mix for all": 11.8,
+    "mix by what the reader sees": 11.8
+   },
+   "one-letter word": {
+    "S": 8.8,
+    "TW": 12.0,
+    "BZ": 12.1,
+    "TWb": 12.1,
+    "BZb": 12.1,
+    "TWb2": 11.6,
+    "one mix for all": 12.1,
+    "mix by what the reader sees": 12.1
+   }
+  },
+  "any reading right": 17.04,
+  "gate": {
+   "6": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "10": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "12": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 1
+   },
+   "13": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "14": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "16": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 1
+   },
+   "17": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0.5,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "18": {
+    "S": 0,
+    "TW": 0.5,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "20": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "21": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "22": {
+    "S": 0,
+    "TW": 1,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0
+   },
+   "24": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 0,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 0.5
+   },
+   "25": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 1
+   },
+   "26": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 0,
+    "TWb2": 0,
+    "BZb": 1
+   },
+   "27": {
+    "S": 0,
+    "TW": 0,
+    "BZ": 1,
+    "TWb": 1,
+    "TWb2": 0,
+    "BZb": 1
+   }
+  },
+  "seconds": 200.9
+ }
+]

@@ -1,0 +1,88 @@
+[
+ {
+  "text": "Webster",
+  "diff letters vs p": {
+   "disagree": 48.4,
+   "letters_right_when_disagree": 53.88,
+   "grid_right_when_disagree": 8.55,
+   "middle_bits": 2.6538,
+   "middle_right": 41.59
+  },
+  "diff letters vs h": {
+   "disagree": 47.66,
+   "letters_right_when_disagree": 54.45,
+   "grid_right_when_disagree": 8.77,
+   "middle_bits": 2.5723,
+   "middle_right": 41.77
+  },
+  "letters middle (aside)": {
+   "bits": 1.5921,
+   "right": 63.54
+  },
+  "+3/-3 letters": {
+   "weights": {
+    "Fl": 1,
+    "Rl": 1
+   },
+   "held_out_bits_per_letter": 1.6136,
+   "right": 63.46
+  },
+  "+3/-3 letters, place and how": {
+   "weights": {
+    "Fl": 1,
+    "Rl": 1,
+    "Fp": 0,
+    "Rp": 0,
+    "Fh": 0,
+    "Rh": 0
+   },
+   "held_out_bits_per_letter": 1.6136,
+   "right": 63.46
+  },
+  "aside_best": 1.5921,
+  "seconds": 36.5
+ },
+ {
+  "text": "scrambled",
+  "diff letters vs p": {
+   "disagree": 25.55,
+   "letters_right_when_disagree": 7.88,
+   "grid_right_when_disagree": 11.84,
+   "middle_bits": 4.2051,
+   "middle_right": 12.14
+  },
+  "diff letters vs h": {
+   "disagree": 25.55,
+   "letters_right_when_disagree": 7.87,
+   "grid_right_when_disagree": 11.84,
+   "middle_bits": 4.2056,
+   "middle_right": 12.14
+  },
+  "letters middle (aside)": {
+   "bits": 4.3285,
+   "right": 11.13
+  },
+  "+3/-3 letters": {
+   "weights": {
+    "Fl": 1,
+    "Rl": 1
+   },
+   "held_out_bits_per_letter": 4.3301,
+   "right": 10.67
+  },
+  "+3/-3 letters, place and how": {
+   "weights": {
+    "Fl": 1,
+    "Rl": 1,
+    "Fp": 0,
+    "Rp": 0,
+    "Fh": 0,
+    "Rh": 0
+   },
+   "held_out_bits_per_letter": 4.3301,
+   "right": 10.67
+  },
+  "aside_best": 4.3285,
+  "seconds": 36.4
+ }
+]

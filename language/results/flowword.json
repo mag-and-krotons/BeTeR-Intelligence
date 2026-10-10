@@ -1,0 +1,382 @@
+[
+ {
+  "text": "webster",
+  "distinct_bounded_windows": {
+   "1": 713,
+   "2": 56158,
+   "3": 216915,
+   "4": 345670,
+   "5": 440146,
+   "6": 497716
+  },
+  "bounded tower betas": [
+   4,
+   1,
+   1,
+   2,
+   2,
+   16
+  ],
+  "global mix weights (S, TW, TWb, BZ)": [
+   0.5,
+   0,
+   0.5,
+   0.5
+  ],
+  "alone and mixed": {
+   "S": {
+    "bits": 1.132,
+    "right": 76.07
+   },
+   "TW": {
+    "bits": 0.9112,
+    "right": 82.93
+   },
+   "BZ": {
+    "bits": 0.8603,
+    "right": 82.37
+   },
+   "TWb": {
+    "bits": 0.8293,
+    "right": 84.8
+   },
+   "one mix for all": {
+    "bits": 0.6764,
+    "right": 87.49
+   },
+   "mix chosen by what the reader sees": {
+    "bits": 0.6379,
+    "right": 87.42
+   }
+  },
+  "by place in word (right %)": {
+   "word start": {
+    "S": 74.5,
+    "TW": 75.0,
+    "BZ": 74.3,
+    "TWb": 79.0,
+    "one mix for all": 82.5,
+    "mix chosen by what the reader sees": 82.4
+   },
+   "word end": {
+    "S": 78.4,
+    "TW": 77.0,
+    "BZ": 76.5,
+    "TWb": 80.7,
+    "one mix for all": 84.8,
+    "mix chosen by what the reader sees": 84.6
+   },
+   "inside": {
+    "S": 76.3,
+    "TW": 88.3,
+    "BZ": 87.8,
+    "TWb": 90.1,
+    "one mix for all": 90.8,
+    "mix chosen by what the reader sees": 90.7
+   },
+   "one-letter word": {
+    "S": 63.1,
+    "TW": 74.3,
+    "BZ": 74.0,
+    "TWb": 43.3,
+    "one mix for all": 76.1,
+    "mix chosen by what the reader sees": 77.7
+   }
+  },
+  "gate (stratum = seen*4 + place)": {
+   "6": [
+    0.5,
+    0,
+    0,
+    0.5
+   ],
+   "8": [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   "9": [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   "10": [
+    0.5,
+    0,
+    0,
+    0.5
+   ],
+   "12": [
+    0,
+    0,
+    0.5,
+    0
+   ],
+   "13": [
+    0,
+    0,
+    0.5,
+    0
+   ],
+   "14": [
+    0.5,
+    0,
+    0.5,
+    0
+   ],
+   "16": [
+    0.5,
+    0,
+    0,
+    0.5
+   ],
+   "17": [
+    0,
+    0,
+    0.5,
+    0
+   ],
+   "18": [
+    0.5,
+    0,
+    0.5,
+    0
+   ],
+   "20": [
+    0,
+    0,
+    0.5,
+    0
+   ],
+   "21": [
+    0,
+    0,
+    0.5,
+    0
+   ],
+   "22": [
+    0.5,
+    0,
+    1,
+    0
+   ],
+   "24": [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   "25": [
+    0.5,
+    0,
+    0.5,
+    0.5
+   ],
+   "26": [
+    0,
+    0,
+    0.5,
+    0.5
+   ],
+   "27": [
+    0.5,
+    0,
+    0,
+    0.5
+   ]
+  },
+  "seconds": 20.7
+ },
+ {
+  "text": "scrambled",
+  "distinct_bounded_windows": {
+   "1": 729,
+   "2": 247507,
+   "3": 1857698,
+   "4": 2476348,
+   "5": 2836348,
+   "6": 2890179
+  },
+  "bounded tower betas": [
+   128,
+   128,
+   128,
+   128,
+   128,
+   128
+  ],
+  "global mix weights (S, TW, TWb, BZ)": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "alone and mixed": {
+   "S": {
+    "bits": 4.4733,
+    "right": 8.65
+   },
+   "TW": {
+    "bits": 4.2266,
+    "right": 11.55
+   },
+   "BZ": {
+    "bits": 4.2041,
+    "right": 11.75
+   },
+   "TWb": {
+    "bits": 4.2422,
+    "right": 11.32
+   },
+   "one mix for all": {
+    "bits": 4.2041,
+    "right": 11.75
+   },
+   "mix chosen by what the reader sees": {
+    "bits": 4.2043,
+    "right": 11.75
+   }
+  },
+  "by place in word (right %)": {
+   "word start": {
+    "S": 8.7,
+    "TW": 11.4,
+    "BZ": 11.7,
+    "TWb": 11.0,
+    "one mix for all": 11.7,
+    "mix chosen by what the reader sees": 11.7
+   },
+   "word end": {
+    "S": 8.7,
+    "TW": 11.4,
+    "BZ": 11.6,
+    "TWb": 11.1,
+    "one mix for all": 11.6,
+    "mix chosen by what the reader sees": 11.6
+   },
+   "inside": {
+    "S": 8.6,
+    "TW": 11.6,
+    "BZ": 11.8,
+    "TWb": 11.4,
+    "one mix for all": 11.8,
+    "mix chosen by what the reader sees": 11.8
+   },
+   "one-letter word": {
+    "S": 8.8,
+    "TW": 12.0,
+    "BZ": 12.1,
+    "TWb": 12.1,
+    "one mix for all": 12.1,
+    "mix chosen by what the reader sees": 12.1
+   }
+  },
+  "gate (stratum = seen*4 + place)": {
+   "6": [
+    0,
+    0,
+    0,
+    0.5
+   ],
+   "8": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "9": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "10": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "12": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "13": [
+    0,
+    0,
+    0,
+    0.5
+   ],
+   "14": [
+    0,
+    0,
+    0,
+    0.5
+   ],
+   "16": [
+    0,
+    0,
+    0,
+    0.5
+   ],
+   "17": [
+    0,
+    0,
+    0,
+    0.5
+   ],
+   "18": [
+    0,
+    0.5,
+    0,
+    1
+   ],
+   "20": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "21": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "22": [
+    0,
+    1,
+    0,
+    0
+   ],
+   "24": [
+    0,
+    0,
+    0,
+    0.5
+   ],
+   "25": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "26": [
+    0,
+    0,
+    0,
+    1
+   ],
+   "27": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  "seconds": 26.1
+ }
+]

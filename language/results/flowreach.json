@@ -1,0 +1,58 @@
+[
+ {
+  "text": "Webster",
+  "forward 3": {
+   "beta": 8,
+   "aside": 2.6492,
+   "held_out_bits_per_letter": 2.6621,
+   "right": 40.82
+  },
+  "+/- 3": {
+   "beta": 8,
+   "aside": 1.5971,
+   "held_out_bits_per_letter": 1.6175,
+   "right": 63.23
+  },
+  "forward 6": {
+   "beta": 32,
+   "aside": 2.1762,
+   "held_out_bits_per_letter": 2.2421,
+   "right": 51.78
+  },
+  "+/- 6": {
+   "beta": 32,
+   "aside": 1.048,
+   "held_out_bits_per_letter": 1.1392,
+   "right": 75.98
+  },
+  "seconds": 22.3
+ },
+ {
+  "text": "scrambled",
+  "forward 3": {
+   "beta": 64,
+   "aside": 4.2372,
+   "held_out_bits_per_letter": 4.234,
+   "right": 11.47
+  },
+  "+/- 3": {
+   "beta": 64,
+   "aside": 4.266,
+   "held_out_bits_per_letter": 4.2627,
+   "right": 11.12
+  },
+  "forward 6": {
+   "beta": 64,
+   "aside": 4.3011,
+   "held_out_bits_per_letter": 4.2989,
+   "right": 10.28
+  },
+  "+/- 6": {
+   "beta": 64,
+   "aside": 4.3957,
+   "held_out_bits_per_letter": 4.3919,
+   "right": 9.24
+  },
+  "seconds": 26.5
+ }
+]

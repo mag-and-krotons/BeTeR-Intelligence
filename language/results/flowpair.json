@@ -1,0 +1,62 @@
+[
+ {
+  "text": "Webster",
+  "forward": {
+   "n": 12,
+   "beta": 64,
+   "aside": 2.1405,
+   "held_out_bits_per_letter": 2.2073,
+   "next_letter_right": 53.02
+  },
+  "reverse (read back from the candidate)": {
+   "n": 9,
+   "beta": 8,
+   "aside": 2.0408,
+   "held_out_bits_per_letter": 2.271,
+   "next_letter_right": 52.69
+  },
+  "middle of the pair": {
+   "a": 0.25,
+   "b": 0.75,
+   "aside": 1.9943,
+   "held_out_bits_per_letter": 2.1824,
+   "next_letter_right": 53.54
+  },
+  "turn": {
+   "disagree": 30.08,
+   "forward_right_when_disagree": 23.83,
+   "reverse_right_when_disagree": 22.74
+  },
+  "seconds": 238.2
+ },
+ {
+  "text": "scrambled",
+  "forward": {
+   "n": 6,
+   "beta": 128,
+   "aside": 4.2519,
+   "held_out_bits_per_letter": 4.2537,
+   "next_letter_right": 11.14
+  },
+  "reverse (read back from the candidate)": {
+   "n": 9,
+   "beta": 32,
+   "aside": 4.0352,
+   "held_out_bits_per_letter": 4.3619,
+   "next_letter_right": 9.22
+  },
+  "middle of the pair": {
+   "a": 0,
+   "b": 1,
+   "aside": 4.0352,
+   "held_out_bits_per_letter": 4.3619,
+   "next_letter_right": 9.22
+  },
+  "turn": {
+   "disagree": 63.12,
+   "forward_right_when_disagree": 10.96,
+   "reverse_right_when_disagree": 7.92
+  },
+  "seconds": 356.3
+ }
+]

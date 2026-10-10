@@ -1,0 +1,46 @@
+[
+ {
+  "text": "Webster",
+  "seconds": 133.4,
+  "plain flow": {
+   "order": 9,
+   "beta": 32,
+   "w_place": 0,
+   "w_how": 0,
+   "aside": 2.1462,
+   "held_out_bits_per_letter": 2.2239,
+   "next_letter_right": 53.53
+  },
+  "flow + Panini's grid": {
+   "order": 9,
+   "beta": 32,
+   "w_place": 0,
+   "w_how": 0,
+   "aside": 2.1462,
+   "held_out_bits_per_letter": 2.2239,
+   "next_letter_right": 53.53
+  }
+ },
+ {
+  "text": "scrambled",
+  "seconds": 168.6,
+  "plain flow": {
+   "order": 1,
+   "beta": 128,
+   "w_place": 0,
+   "w_how": 0,
+   "aside": 4.2041,
+   "held_out_bits_per_letter": 4.2053,
+   "next_letter_right": 11.72
+  },
+  "flow + Panini's grid": {
+   "order": 1,
+   "beta": 128,
+   "w_place": 0,
+   "w_how": 0,
+   "aside": 4.2041,
+   "held_out_bits_per_letter": 4.2053,
+   "next_letter_right": 11.72
+  }
+ }
+]

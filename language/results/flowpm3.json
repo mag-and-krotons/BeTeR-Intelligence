@@ -1,0 +1,82 @@
+[
+ {
+  "text": "Webster",
+  "forward letters only": {
+   "beta": 8,
+   "weights_F_R_Fgrid_Rgrid": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "aside": 2.6495,
+   "held_out_bits_per_letter": 2.6631,
+   "right": 40.62
+  },
+  "+3/-3 letters": {
+   "beta": 8,
+   "weights_F_R_Fgrid_Rgrid": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "aside": 1.5921,
+   "held_out_bits_per_letter": 1.6136,
+   "right": 63.46
+  },
+  "+3/-3 letters and grid": {
+   "beta": 8,
+   "weights_F_R_Fgrid_Rgrid": [
+    1,
+    0.5,
+    0,
+    0.5
+   ],
+   "aside": 1.5936,
+   "held_out_bits_per_letter": 1.6155,
+   "right": 63.43
+  },
+  "seconds": 33.3
+ },
+ {
+  "text": "scrambled",
+  "forward letters only": {
+   "beta": 64,
+   "weights_F_R_Fgrid_Rgrid": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "aside": 4.2292,
+   "held_out_bits_per_letter": 4.2325,
+   "right": 11.43
+  },
+  "+3/-3 letters": {
+   "beta": 64,
+   "weights_F_R_Fgrid_Rgrid": [
+    0,
+    0.5,
+    0,
+    0
+   ],
+   "aside": 4.2076,
+   "held_out_bits_per_letter": 4.2115,
+   "right": 11.64
+  },
+  "+3/-3 letters and grid": {
+   "beta": 64,
+   "weights_F_R_Fgrid_Rgrid": [
+    0.5,
+    0,
+    0,
+    0.5
+   ],
+   "aside": 4.2141,
+   "held_out_bits_per_letter": 4.2187,
+   "right": 11.62
+  },
+  "seconds": 34.5
+ }
+]

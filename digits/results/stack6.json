@@ -1,0 +1,41 @@
+{
+ "seeds": [
+  {
+   "seed": 0,
+   "k_turns": 6,
+   "test_all_ten": 98.14,
+   "still_only": 89.98,
+   "scrambled_control": 7.61,
+   "two_at_a_time": 97.77,
+   "seconds_incl_choosing_k": 0.17
+  },
+  {
+   "seed": 1,
+   "k_turns": 6,
+   "test_all_ten": 97.59,
+   "still_only": 89.61,
+   "scrambled_control": 9.46,
+   "two_at_a_time": 97.96,
+   "seconds_incl_choosing_k": 0.16
+  },
+  {
+   "seed": 2,
+   "k_turns": 7,
+   "test_all_ten": 98.52,
+   "still_only": 89.8,
+   "scrambled_control": 15.4,
+   "two_at_a_time": 97.4,
+   "seconds_incl_choosing_k": 0.15
+  }
+ ],
+ "timing": {
+  "train_images": 1258,
+  "test_images": 539,
+  "write_seconds": 0.004,
+  "read_test_seconds": 0.0021
+ },
+ "all_ten": {
+  "mean": 98.08,
+  "sd": 0.47
+ }
+}

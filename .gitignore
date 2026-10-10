@@ -1,0 +1,6 @@
+__pycache__/
+data/*.npy
+data/*.npz
+data/vocab.json
+language/*.npz
+language/results/*.npz

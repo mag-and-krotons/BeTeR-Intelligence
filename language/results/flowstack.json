@@ -1,0 +1,46 @@
+[
+ {
+  "text": "Webster",
+  "+3/-3 middle (product)": {
+   "held_out_bits_per_letter": 1.6136,
+   "right": 63.46
+  },
+  "stack on letters F,R": {
+   "k_turns": 24,
+   "T": 34.6484,
+   "aside": 2.4228,
+   "held_out_bits_per_letter": 2.4214,
+   "right": 47.78
+  },
+  "stack on letters and grid F,R": {
+   "k_turns": 32,
+   "T": 50.0,
+   "aside": 2.3805,
+   "held_out_bits_per_letter": 2.378,
+   "right": 48.26
+  },
+  "seconds": 75.6
+ },
+ {
+  "text": "scrambled",
+  "+3/-3 middle (product)": {
+   "held_out_bits_per_letter": 4.3301,
+   "right": 10.67
+  },
+  "stack on letters F,R": {
+   "k_turns": 32,
+   "T": 50.0,
+   "aside": 4.2022,
+   "held_out_bits_per_letter": 4.2042,
+   "right": 11.65
+  },
+  "stack on letters and grid F,R": {
+   "k_turns": 12,
+   "T": 50.0,
+   "aside": 4.2022,
+   "held_out_bits_per_letter": 4.2042,
+   "right": 11.65
+  },
+  "seconds": 68.9
+ }
+]
